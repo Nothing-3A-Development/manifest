@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+    <remote name="github-https"
+            fetch="https://github.com/orgs/Nothing-3A-Development/"
+            sync-c="true"
+            sync-tags="false"
+            revision="lineage-22.2" />
+    <!-- Device Tree -->
+    <project name="android_device_nothing_asteroids" path="device/nothing/asteroids" remote="github-https" />
+  
+    <!-- Nothing Hardware Specific -->
+    <project name="android_hardware_nothing" path="hardware/nothing" remote="github-https" />
+  
+    <!-- Kernel Source -->
+    <project name="android_kernel_nothing_sm8650" path="kernel/nothing/sm8650" remote="github-https" />
+    <project name="android_kernel_nothing_sm8650-devicetrees" path="kernel/nothing/sm8650-devicetrees" remote="github-https" />
+    <project name="android_kernel_nothing_sm8650-modules" path="kernel/nothing/sm8650-modules" remote="github-https" />
+
+    <!-- Vendor Files -->
+    <project name="proprietary_vendor_nothing_asteroids" path="vendor/nothing/asteroids" remote="github-https" />
+
+
+</manifest>
