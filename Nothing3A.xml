@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
     <remote name="github-https"
-            fetch="https://github.com/orgs/Nothing-3A-Development/"
+            fetch="https://github.com/Nothing-3A-Development/"
             sync-c="true"
             sync-tags="false"
             revision="lineage-22.2" />
