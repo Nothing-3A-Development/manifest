@@ -10,4 +10,3 @@ source build/envsetup.sh
 brunch asteroids
 ```
 
-The Nothing Camera repo is optional. Remove it from the manifest to build without it.

@@ -17,5 +17,4 @@
 
     <!-- Vendor -->
     <project name="proprietary_vendor_nothing_asteroids" path="vendor/nothing/asteroids" remote="nothing-3a" />
-    <project name="proprietary_vendor_nothing_camera" path="vendor/nothing/camera" remote="nothing-3a" />
 </manifest>
